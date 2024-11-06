@@ -2,9 +2,7 @@
 <h3 align="center">We're a Team of coder, and we make mods for Gorilla Tag! The members include, Cody, StarGazer, Socks, and Striker!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artificialgorillas&label=Profile%20views&color=0e75b6&style=flat" alt="artificialgorillas" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [GorillaWatch](https://github.com/ArtificialGorillas/GorillaWatch)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArtificialGorillas/](https://github.com/ArtificialGorillas/)

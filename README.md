@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artificialgorillas&label=Profile%20views&color=0e75b6&style=flat" alt="artificialgorillas" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🔭 I’m currently working on [GorillaWatch](https://github.com/NeoTechGorillas/GorillaWatch), and [SkibidiFreecam](https://github.com/NeoTechGorillas/SkibidiFreecam)
-
+- 🔭 I'm currently working on [GorillaWatch](https://github.com/NeoTechGorillas/GorillaWatch), and [SkibidiFreecam](https://github.com/NeoTechGorillas/SkibidiFreecam)
+  
 - 👨‍💻 All of my projects are available at [our GitHub](https://github.com/NeoTechGorillas/)
 
 - 💬 Ask us **anything**

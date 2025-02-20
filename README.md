@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **https://discord.gg/E7kTnTYZEG**
 
-<h3 align="left">Connectioons:</h3>
+<h3 align="left">Connections:</h3>
 <p align="left">
 <a href="https://discord.gg/xFxMUJcGsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xFxMUJcGsx" height="30" width="40" /></a>
 </p>
